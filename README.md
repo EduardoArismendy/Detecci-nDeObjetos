@@ -37,7 +37,7 @@ La página original permite probar detección de objetos sin instalar nada. La d
 ## 🧰 Instalación local
 
 ```bash
-git clone https://github.com/tu-usuario/detectordeobjetos.git
+git clone https://github.com/EduardoArismendy/Detecci-nDeObjetos.git
 cd detectordeobjetos
 
 
